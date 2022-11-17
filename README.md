@@ -1,2 +1,2 @@
 # gender_classification
-downloaded from kaggle
+csv file downloaded from kaggle
